@@ -1,0 +1,12 @@
+1. Make new list from two existing list which contain duplicate values,  
+	output should be unique.
+
+2. Find unique tuple from existing tuple which contains lot of duplicate values.
+
+3.  A = [1,2,3,4,5]
+    B = [1,6,7,8]
+    C = [8,9,10]
+
+ Expected output : [1,2,3,4,5,6,7,8,9,10] & [1,8]
+	 
+
